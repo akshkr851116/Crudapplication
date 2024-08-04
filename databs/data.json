@@ -21,10 +21,6 @@
       "name": "Bholu"
     },
     {
-      "id": "4f80",
-      "name": "Abhishek"
-    },
-    {
       "id": "cdbb",
       "name": "Ankit"
     },
@@ -35,13 +31,65 @@
     {
       "id": "b45b",
       "name": "Amit"
+    },
+    {
+      "id": "f72b",
+      "name": "Anish"
     }
   ],
-  "subcategory": [],
+  "subcategory": [
+    {
+      "id": "0731",
+      "name": "Akash Singh"
+    },
+    {
+      "id": "ce84",
+      "name": "Azad"
+    },
+    {
+      "id": "df98",
+      "name": "Bholu2"
+    },
+    {
+      "id": "fff0",
+      "name": "bxchzbcshbs"
+    }
+  ],
+  "brand": [
+    {
+      "id": "ce60",
+      "name": "nike",
+      "pic": "jackdanels.jpg"
+    },
+    {
+      "id": "0964",
+      "name": "Adidas",
+      "pic": "adidas.webp"
+    },
+    {
+      "id": "3bd7",
+      "name": "Woodland",
+      "pic": "woodland.png"
+    },
+    {
+      "id": "2604",
+      "name": "Puma",
+      "pic": "mercedes.jpg"
+    },
+    {
+      "id": "7732",
+      "name": "Google1",
+      "pic": "skechers.jpg"
+    },
+    {
+      "id": "3a45",
+      "name": "nikenbnb",
+      "pic": "jackdanels.jpg"
+    }
+  ],
   "product": [],
   "user": [],
   "contact": [],
-  "brand": [],
   "newsletter": [],
   "carts": [],
   "checkout": []
